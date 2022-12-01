@@ -8,7 +8,7 @@ Build System : Gradle
 Language : Kotlin
 
 ## Library
-Here is the ML link I used to create my project! Try it out or clone my projects and tweak it to your needs :)
+Here is the ML link I used to create my project! Try it out on your own or clone my project and tweak it to your needs :)
 - [ML Kit Image labeling](https://developers.google.com/ml-kit/vision/image-labeling/android) - Machine Learning
 
 ## Demo
