@@ -1,7 +1,7 @@
 # MLCameraApplication
 **SWITCH TO MASTER BRANCH TO VIEW MY CODE
 
-This Android application allows users to take a photo and uses ML Kit to detect the objects in the photo, label them and display the associated accuracy (confidence) for those objects in a scroll list.
+This Android application allows users to take a photo and uses Google's ML Kit to detect what objects are in the photo. It then labels each detected item and displays the associated accuracy (confidence) for those objects in a scroll list.
 
 ## Technologies
 
