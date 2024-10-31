@@ -26,3 +26,11 @@ Here is the ML link I used to create my project! Try it out on your own or clone
 | :---         |     :---:      |          ---: |
 | <img src="https://user-images.githubusercontent.com/55561581/146872267-b8f9f8ca-baa1-4829-b6ae-4cc7e859af9f.png" width="250" height="400" />     | <img src="https://user-images.githubusercontent.com/55561581/146877682-7ddaaf96-266b-4cfc-8366-8a54d53d01e0.png" width="250" height="400" />    | <img src="https://user-images.githubusercontent.com/55561581/146872302-633192d9-a454-475f-ad10-1835c14758f1.png" width="250" height="400" />    |
 |      |        |       |
+
+
+# My Mainactivity.Kt and AndroidManifest.xml code snippets
+
+<img src="https://github.com/user-attachments/assets/e2954b50-8f11-463e-9e56-245048b7a062" width="350" height="500">
+Android.XML
+<img src="https://github.com/user-attachments/assets/3eb92ac2-b969-4a68-8fbe-dc1d0011b1f7" width="350" height="500">
+MainActivity.kt
