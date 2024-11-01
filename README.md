@@ -28,11 +28,8 @@ Here is the ML link I used to create my project! Try it out on your own or clone
 |      |        |       |
 
 
-# My Mainactivity.Kt and AndroidManifest.xml code snippets
+# My AndroidManifest.xml code snippet
 
 <img src="https://github.com/user-attachments/assets/e2954b50-8f11-463e-9e56-245048b7a062" width="350" height="500">
--- Android.XML
 
-<img src="https://github.com/user-attachments/assets/be11984e-e432-40e7-8512-5e3a750996cf"
--- MainActivity.kt
 
